@@ -46,7 +46,7 @@ export PAGER=bat
 export PATH=\"/data/data/com.termux/files/home/.local/bin:/data/data/com.termux/files/home/go/bin:\$PATH\"
 
 export CARAPACE_MATCH=1
-export CARAPACE_BRIDGES='bash,zsh,fish'
+export CARAPACE_BRIDGES='zsh,fish,bash'
 " > ~/.profile
 
 # bash
