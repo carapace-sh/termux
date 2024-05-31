@@ -1,0 +1,16 @@
+Package: carapace-bin
+Version: 1.0.3
+Section: 
+Priority: optional
+Architecture: aarch64
+Maintainer: rsteube <rsteube@users.noreply.github.com>
+Installed-Size: 52882
+Homepage: https://github.com/carapace-sh/carapace-bin
+Description: multi-shell multi-command argument completer
+Filename: dists/termux/extras/binary-aarch64/carapace-bin_1.0.3_android_arm64.termux.deb
+Size: 11852232
+MD5Sum: 9b4cb72bbb8ee09dbdb9e3f0c704f8f6
+SHA1: 9c76ee9715aeabefc4ff0e5a592dddc1b904a88e
+SHA256: 185f170b1a775a3c4da77dd6bb7dc49a0b966b45a15007991024c801789894f4
+SHA512: fe74024afaf187edd8d2970565e93df4b8c22e40ccd9d8ada52818e5c2a073893eb010c7fc535a6c21f363d3d25e935f87b12b6e3ac4ef44c53b31b32332b37c
+
