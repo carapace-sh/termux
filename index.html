@@ -5,3 +5,4 @@ mkdir --parents "$PREFIX/etc/apt/sources.list.d"
 echo "\
 deb [trusted=yes] https://termux.carapace.sh termux extras
 " > "$PREFIX/etc/apt/sources.list.d/carapace.list"
+apt update && apt install -y carapace-bin
